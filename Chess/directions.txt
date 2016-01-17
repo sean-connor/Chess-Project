@@ -1,0 +1,23 @@
+Chess Game Plan
+
+-Generate Board
+  X8x8 2-D Array
+  XPopulate with nil piece classes
+  XVerify: Print out the array
+
+-Create Functional Display
+  XRender
+  -Cursor Module
+  -Player Prompts
+
+-Ability to move a single 'piece'(Rook) arond the board
+
+-Create Remaining Piece Types
+
+-Valide Moves (within board, place not populated by own piece)
+
+-Capture Functionality
+
+-Introduce Check
+
+-Introduce Checkmate
